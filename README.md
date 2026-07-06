@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Guinho! 👋
 
-<!--
-**Guinho-raivoso/Guinho-raivoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Estudante:** Curso Técnico Integrado em Informática no **IFRN Campus Parelhas** (3º Ano).
+* 🔭 **Foco Atual:** Desenvolvendo projetos escolares, práticas de laboratório e expandindo conhecimentos para a área de tecnologia.
+* 🌱 **Estou aprendendo:** Lógica de programação, bancos de dados e estruturas de código.
+* ⚡ **Interesses:** Desenvolvimento de sistemas, automação e resolução de alguns problemas através do código.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Estas são as principais tecnologias que tenho contato nas disciplinas do curso e em estudos de programação:
+
+* **Linguagens e Web:** HTML5, CSS, JavaScript e Python.
+* **Ferramentas de Controle:** Git e GitHub.
+* **Ambiente de Desenvolvimento:** Visual Studio Code (VS Code).
+
+---
+
+### 📂Objetivos
+* Desenvolver projetos cada vez mais completos
+* Aprimorar minhas habilidades na tecnologia
+* Ter um futuro repleto de conhecimento
